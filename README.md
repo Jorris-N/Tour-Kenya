@@ -1,8 +1,8 @@
-## Tourism Website - DUT Project
+## Tourism Website
 
 1. **introduction**
 
-The following project is a static website for the DUT Project Tourism SME
+The following project is a static website for Tourism Project
 
 2. **Tech Stack**
 
