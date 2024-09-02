@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name": "Safaris",
+        "image": "/images/products/safari.svg",
+        "place" : 12,
+        "caption":"tours"
+    },
+    {
+        "id":2,
+        "name": "interest tours",
+        "image": "/images/products/itinararies.svg",
+        "place" : 12,
+        "caption":"tours"
+    },
+    {
+        "id":3,
+        "name": "Itinararies",
+        "image": "/images/products/encoded.svg",
+        "place" : 12,
+        "caption":"tours"
+    },
+    {
+        "id":4,
+        "name": "encoded tours",
+        "image": "/images/products/safari.svg",
+        "place" : 12,
+        "caption":"tours"
+    },
+    {
+        "id":5,
+        "name": "travel consultancy",
+        "image": "/images/products/safari.svg",
+        "place" : 12,
+        "caption":"tours"
+    }
+
+]

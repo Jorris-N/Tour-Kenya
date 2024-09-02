@@ -1,0 +1,145 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    #reg_link:not(:last-child){
+        @apply border-r  ;
+    }
+
+
+}
+@screen xl{
+  #bannerImage{
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(/images/background.jpg);
+   background-size: cover;
+   width: 100%;
+   height: 100vh;
+  }  
+}
+
+#bannerImage {
+   background-image:  linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(/images/background.jpg);
+   background-size: cover;
+   width: 100%;
+}
+#paralaxImage {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(/images/parallax.jpg);
+    width: 100%;
+    background-size: cover;
+}
+#overlay{
+    @apply bg-black/[0.5] scale-x-0 transition duration-700 ease-in-out;
+    opacity: 0;
+    backdrop-filter: blur(12px);
+    border-radius: 0.5rem;
+}
+
+#card-container:hover #overlay{
+    opacity: 1 !important;
+    @apply scale-x-100;
+}
+
+#card-container:hover #product{
+    @apply hidden scale-y-0 opacity-0;
+}
+
+#counterImage{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(/images/background.jpg);
+    width: 100%;
+    background-size: cover;
+    height: 340px;
+}
+
+#newsLetterImage{
+    background-image: url(/images/newsletter-bg.jpg);
+    width: 100%;
+    background-size: cover;
+}
+
+#tourSection{
+    background: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(/images/tour_car.jpg) no-repeat scroll center center;
+    background-size: cover;
+    padding: 100px 0 100px;
+}
+
+#Header:hover #ImageScaling{
+    @apply scale-125 shadow transition duration-700 ease-in-out;
+}
+
+#overRide{
+    @apply bg-white scale-x-0;
+    opacity: 0;
+}
+
+#card:hover #overRide{
+    opacity: 1 !important;
+    @apply scale-x-100;
+}
+
+#card:hover #product{
+    @apply hidden scale-y-0 opacity-0;
+}
+
+#pagination-container #pagination-item {
+    padding: 0 14px;
+    height: 32px;
+    text-align: center;
+    margin: auto 4px;
+    color: rgba(0, 0, 0, 0.87);
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    letter-spacing: 0.01071em;
+    border-radius: 50%;
+    line-height: 1.43;
+    font-size: 14px;
+    min-width: 32px;
+}
+
+#pagination-container #pagination-item:hover {
+    background-color: rgb(234 88 12);
+    cursor: pointer;
+    color: #ffffff;
+  }
+
+  #pagination-container #pagination-item.selected {
+    background-color: rgb(234 88 12);
+    color: #ffffff;
+  }
+  
+  #pagination-item{
+    background-color: rgb(255 237 213);
+  }
+  .owl-nav button.owl-prev {
+    left: 0;
+  }
+  .owl-nav button.owl-next {
+    right: 0;
+  }
+ 
+  .owl-nav button {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      margin: 0px -36px;   
+  }
+  .owl-nav span {
+      font-size: 60px;    
+      position: relative;
+      top: -5px;
+      color: rgba(239, 110, 34);
+      background-color: rgb(255 237 213);
+      padding-left: 10px;
+      padding-right: 10px;
+      border-radius: 50px;
+  }
+  .owl-nav button:focus {
+      outline: none;
+  }
+  .react-tabs__tab--selected{
+    color: rgba(239, 110, 34);
+  }
+
+  

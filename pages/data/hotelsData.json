@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "image": "/images/parallax.jpg",
+        "name": "Sarova Hotel",
+        "location": "Kenya",
+        "contact": "+254 712 345678",
+        "description": "style accompanied by comfort. making your stay memorable."
+    },
+    
+    {
+        "id": 2,
+        "image": "/images/mombasa.jpg",
+        "name": "kilwa beach lodge",
+        "location": "Tanzania",
+        "contact": "+255 712 345678",
+        "description": "style accompanied by comfort. making your stay memorable."
+    },
+
+    {
+        "id": 3,
+        "image": "/images/holiday.jpg",
+        "name": "munyonyo commonwealth resort",
+        "location": "Uganda",
+        "contact": "+256 712 345678",
+        "description": "style accompanied by comfort. making your stay memorable."
+    }
+]

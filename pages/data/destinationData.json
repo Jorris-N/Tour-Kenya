@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "image": "/images/weekend.jpg",
+        "description": "weekend tour",
+        "details": "unwind you weekend with the breath-taking experience",
+        "price": "$200"
+    },
+    {
+        "id":2,
+        "image": "/images/holiday.jpg",
+        "description": "holiday tour",
+        "details": "spend your precious vaccation in these serene areas",
+        "price": "$300"
+    },
+    {
+        "id":3,
+        "image": "/images/history.jpg",
+        "description": "historical tour",
+        "details": "enjoy the historical sites dating many years ago",
+        "price": "$400"
+    },
+    {
+        "id":4,
+        "image": "/images/family.jpg",
+        "description": "family tour",
+        "details": "great hangouts for families to enjoy bonding and great scenary views",
+        "price": "$275"
+    },
+    {
+        "id":5,
+        "image": "/images/beach.jpg",
+        "description": "beach tour",
+        "details": "white sandy beaches with great sunrise and sunset views",
+        "price": "$500"
+    },
+    {
+        "id":6,
+        "image": "/images/wildlife.jpg",
+        "description": "wildlife tour",
+        "details": "enjoy viewing and close captioning of the great african wildlife",
+        "price": "$600"
+    }
+]

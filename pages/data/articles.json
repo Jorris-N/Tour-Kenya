@@ -1,0 +1,50 @@
+ [
+    {
+        "id": 1,
+        "image": "/images/tour_car.jpg",
+        "date": "Jan 22, 2022",
+        "author": "jackline maribe",
+        "title": "",
+        "detail": ""
+    },
+    {
+        "id": 2,
+        "image": "/images/wildlife.jpg",
+        "date": "Mar 14, 2022",
+        "author": "joseph njuguna",
+        "title": "",
+        "detail": ""
+    },
+    {
+        "id": 3,
+        "image": "/images/family.jpg",
+        "date": "May 4, 2021",
+        "author": "kim munene",
+        "title": "",
+        "detail": ""
+    },
+     {
+        "id": 4,
+        "image": "/images/history.jpg",
+        "date": "Jul 3, 2022",
+        "author": "douglas muasya",
+        "title": "",
+        "detail": ""
+    }, 
+    {
+        "id": 5,
+        "image": "/images/beach.jpg",
+        "date": "Dec 23, 2021",
+        "author": "ken maiteri",
+        "title": "",
+        "detail": ""
+    },
+     {
+        "id": 6,
+        "image": "/images/holiday.jpg",
+        "date": "Aug 17, 2021",
+        "author": "phoebe anyango",
+        "title": "",
+        "detail": ""
+    }
+]

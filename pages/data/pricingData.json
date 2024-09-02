@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "image": "/images/cropMount.jpg",
+        "title1": "tanzania",
+        "title2": "mt. kilimanjaro",
+        "type": "special offer",
+        "desctiption": "join the thousands of climbers who have stood on the Mount Kilimanjaro Summit Guided by Our Trek Expert Team. Our guides are highly skilled professionals and are a key component to your success.",
+        "date": "Aug 26, 2022",
+        "duration": "3 days, 2 nights",
+        "highlight": "climbing kilimanjaro",
+        "price": "$250",
+        "discount": "NEW!"
+
+    },
+
+    {
+        "id": 2,
+        "image": "/images/Malkamari2_0.jpg",
+        "title1": "kenya",
+        "title2": "mal kamari",
+        "type": "discount offer",
+        "desctiption": "The park covers an area of 876 km2 and lies along the Daua River on the Kenya-Ethiopia border to the extreme North East of Kenya on the Mandera plateau, Mandera County.",
+        "date": "Oct 19, 2022",
+        "duration": "4 days, 4 nights",
+        "highlight": "visiting kenya-ethiopia border",
+        "price1": "$250",
+        "price": "$170",
+        "discount": "32% off"
+
+    },
+
+    {
+        "id": 3,
+        "image": "/images/beach.jpg",
+        "title1": "tanzania",
+        "title2": "mt. kilimanjaro",
+        "type": "special offer",
+        "desctiption": "join the thousands of climbers who have stood on the Mount Kilimanjaro Summit Guided by Our Trek Expert Team. Our guides are highly skilled professionals and are a key component to your success.",
+        "date": "Aug 26, 2022",
+        "duration": "3 days, 2 nights",
+        "highlight": "climbing kilimanjaro",
+        "price": "$250",
+        "discount": "NEW!"
+
+    },
+
+    {
+        "id": 4,
+        "image": "/images/falls.jpg",
+        "title1": "uganda",
+        "title2": "murchison falls",
+        "type": "discount offer",
+        "desctiption": "Largest park in Uganda and home to one of the most powerful stretches of white water in the world: Murchison Falls.",
+        "date": "Sept 02, 2022",
+        "duration": "5 days, 4 nights",
+        "highlight": "Uganda’s largest wildlife reserve",
+        "price1": "$500",
+        "price": "$380",
+        "discount": "24% off"
+
+    },
+
+    {
+        "id": 5,
+        "image": "/images/beach.jpg",
+        "title1": "tanzania",
+        "title2": "mt. kilimanjaro",
+        "type": "special offer",
+        "desctiption": "join the thousands of climbers who have stood on the Mount Kilimanjaro Summit Guided by Our Trek Expert Team. Our guides are highly skilled professionals and are a key component to your success.",
+        "date": "Aug 26, 2022",
+        "duration": "3 days, 2 nights",
+        "highlight": "climbing kilimanjaro",
+        "price": "$250",
+        "discount": "NEW!"
+
+    },
+
+    {
+        "id": 6,
+        "image": "/images/palace.jpg",
+        "title1": "zanzibar",
+        "title2": "the palace museum and penury",
+        "type": "discount offer",
+        "desctiption": "An incredible history of the island. From the era of the Omani occupation, through the occupation by the Portuguese and then the British, upto the post-WW2 period.",
+        "date": "Nov 18, 2022",
+        "duration": " 5 days, 4 nights ",
+        "highlight": "former palace of Sultan Seyyid Said",
+        "price1": "$650",
+        "price": "$572",
+        "discount": "12% off"
+    }
+]

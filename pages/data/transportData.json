@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image": "/images/tour_car.jpg",
+        "title": "cars",
+        "desctiption": ""
+    },
+    {
+        "id": 2,
+        "image": "/images/plane.jpg",
+        "title": "flights",
+        "desctiption": ""
+    },
+    {
+        "id": 3,
+        "image": "/images/bus.jpg",
+        "title": "buses",
+        "desctiption": ""
+    },
+    {
+        "id": 4,
+        "image": "/images/cruise.jpg",
+        "title": "cruises",
+        "desctiption": ""
+    }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Flights"
+  },
+  {
+    "id": 2,
+    "name": "Traveling"
+  },
+  {
+    "id": 3,
+    "name": "Cruise"
+  },
+  {
+    "id": 4,
+    "name": "Hotels"
+  },
+  {
+    "id": 5,
+    "name": "Booking"
+  },
+  {
+    "id": 6,
+    "name": "Tours"
+  },
+  {
+    "id": 7,
+    "name": "Counties"
+  },
+  {
+    "id": 8,
+    "name": "Trekking"
+  },
+  {
+    "id": 9,
+    "name": "Adventure"
+  },
+  {
+    "id": 10,
+    "name": "Air Rides"
+  }
+]

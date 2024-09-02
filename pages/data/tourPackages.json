@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "image": "/images/background.jpg",
+        "title": "mombasa beach hotel",
+        "review": "10 reviews",
+        "duration": "4 days, 3 nights",
+        "location": "mombasa - 1 place",
+        "price": "$750",
+        "button1": "book",
+        "button2": "view details",
+        "description": ""
+    },
+
+    {
+        "id": 2,
+        "image": "/images/banner_bg.jpg",
+        "title": "voi safari lodge",
+        "review": "10 reviews",
+        "duration": "4 days, 3 nights",
+        "location": "mombasa - 1 place",
+        "price": "$750",
+        "button1": "book",
+        "button2": "view details",
+        "description": ""
+    },
+
+    {
+        "id": 3,
+        "image": "/images/mombasa.jpg",
+        "title": "sarova salt lick game lodge",
+        "review": "10 reviews",
+        "duration": "4 days, 3 nights",
+        "location": "mombasa - 1 place",
+        "price": "$750",
+        "button1": "book",
+        "button2": "view details",
+        "description": ""
+    },
+
+    {
+        "id": 4,
+        "image": "/images/parallax.jpg",
+        "title": "lotfa resort diani",
+        "review": "10 reviews",
+        "duration": "4 days, 3 nights",
+        "location": "diani - 1 place",
+        "price": "$750",
+        "button1": "book",
+        "button2": "view details",
+        "description": ""
+    },
+
+    {
+        "id": 5,
+        "image": "/images/holiday.jpg",
+        "title": "blue marlin beach hotel",
+        "review": "10 reviews",
+        "duration": "4 days, 3 nights",
+        "location": "mombasa - 1 place",
+        "price": "$750",
+        "button1": "book",
+        "button2": "view details"
+    },
+    {
+        "id": 6,
+        "image": "/images/weekend.jpg",
+        "title": "the sands at nomad",
+        "review": "10 reviews",
+        "duration": "4 days, 3 nights",
+        "location": "ukunda - 1 place",
+        "price": "$750",
+        "button1": "book",
+        "button2": "view details",
+        "description": ""
+    }
+]
